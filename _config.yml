@@ -12,7 +12,7 @@ email: javierignamorales@gmail.com
 website: https://github.com/Javier-I-Morales
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
 twitter_username: jazulmo
@@ -45,7 +45,7 @@ additional_links:
 # google_analytics: "UA-00000000-0"
 
 # About Section
-# about_title: Sobre Mi
+# about_title: About Me
 about_profile_image: images/f1.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hola, soy estudiante de la carrera Tecnicatura en Informatica de la Universidad Nacional de Hurlingham y estamos practicando GitHub. Gracias Bill Gates por fabuloso trabajo.
