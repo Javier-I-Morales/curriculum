@@ -48,8 +48,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/f1.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hola, soy estudiante medianamente avanzado de la carrera Tecnicatura en Informatica de la Universidad Nacional de Hurlimghan
-   y estamos practicando GitHub. Gracias Bill Gates por fabuloso trabajo.
+  Hola, soy estudiante medianamente avanzado de la carrera Tecnicatura en Informatica de la Universidad Nacional de Hurlimghan y estamos practicando GitHub. Gracias Bill Gates por fabuloso trabajo.
 
   I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
